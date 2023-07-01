@@ -4,7 +4,7 @@ Computer Graphic (C - Language) <br>
 objective C
 
 ## Screenshots
-### Options to change color of ball, background, and also fan speed.
+### Options to change color of background, and also fan speed.
 
 ![image](https://github.com/VachanaJRai/Flying-Ball/assets/138142357/af5a5f52-d941-4faf-91ea-71ddb49d2cb4)
 ![image](https://github.com/VachanaJRai/Flying-Ball/assets/138142357/534d3054-4c82-4903-8abe-ced6c7408235)
