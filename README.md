@@ -1,5 +1,7 @@
 # Flying-Ball
 Computer Graphic (C - Language)
+3D stimulated mini project incorporating computer graphics using
+objective C
 
 ## Screenshots
 
